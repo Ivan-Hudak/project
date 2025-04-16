@@ -1,0 +1,80 @@
+.container {
+    background-color: #F4F0EC;
+    width: 1200px; 
+    height: 675px;
+    justify-content: center;
+    border-radius: 70px;
+    margin-top: 50px;
+}
+
+.coments {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-family: DM Serif Display;
+    font-size: 45px;
+    line-height: 58.5px;
+    letter-spacing: 0.2199999988079071px;
+}
+
+.col-md-4 {
+    background-color: #FFFFFF;
+    width: 354px;
+    height: 287px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-top: 52px
+}
+
+.row {
+    justify-content: center;
+}
+
+.com-img {
+    border-radius: 100px;
+    width: 77px;
+    height: 77px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 35px;
+}
+
+.user-name {
+    margin-top: 57px;
+    padding-left: 147px;
+}
+
+.user-live {
+    padding-left: 147px;
+}
+
+.com-info {
+    padding-left: 35px;
+    padding-top: 12px;
+    width: 274px;
+}
+
+.text > p {
+    text-align: center;
+    width: 790px;
+    font-size: 22px;
+    margin: auto;
+    padding-top: 33px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.style-name {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+
